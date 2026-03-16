@@ -1,4 +1,5 @@
-#MySyncDrop
+# MySyncDrop
+
 Prosty system synchronizacji plików między wieloma komputerami z systemem Windows a centralnym serwerem. Działa podobnie do Dropbox — klient monitoruje wybrany katalog i automatycznie synchronizuje zmiany.
 
 Jak to działa
